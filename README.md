@@ -1,5 +1,5 @@
 # Bank Management System — C++
-### OOP + File Handling | TCS / QT Placement Ready
+### OOP + File Handling
 
 ---
 
