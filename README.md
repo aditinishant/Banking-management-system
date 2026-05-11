@@ -129,10 +129,3 @@ transactions.dat      ← Auto-created on first transaction
 ```
 
 ---
-
-## Key Points for Interviews
-1. Explain the `Person → Account` inheritance chain
-2. Explain why `display()` is `virtual`
-3. Explain `toCSV()` / `fromCSV()` for file persistence
-4. Explain why `vector<Account>` is used over arrays
-5. Explain `ios::app` for transaction log vs `ios::trunc` for accounts
