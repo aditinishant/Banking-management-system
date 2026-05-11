@@ -3,7 +3,6 @@
   BANK MANAGEMENT SYSTEM
   Language  : C++
   Concepts  : OOP, File Handling, Inheritance, STL
-  Suitable  : TCS, Wipro, Infosys, QT College Placements
  ============================================================
 */
 
